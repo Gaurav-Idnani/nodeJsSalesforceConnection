@@ -1,0 +1,14 @@
+{
+  "name": "nodejssalesforceconnection",
+  "version": "1.0.0",
+  "description": "this is an app made to implement the basics of connection from salesforce to node js using platform events and nforce package in json",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Idnani",
+  "license": "MIT",
+  "dependencies": {
+    "nforce": "^1.12.2"
+  }
+}
